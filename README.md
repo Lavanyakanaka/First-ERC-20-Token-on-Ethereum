@@ -1,1 +1,0 @@
-# First-ERC-20-Token-on-Ethereum
